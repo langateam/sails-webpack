@@ -14,7 +14,7 @@
   "dependencies": {
     "lodash": "^3.10.1",
     "marlinspike": "^1.0",
-    "webpack": "^1.9.6"
+    "webpack": "^2.3.2"
   },
   "scripts": {
     "prepublish": "gulp",
